@@ -1,7 +1,7 @@
-package com.amazon.ata.futures.prework.futures;
 
-import com.amazon.ata.futures.prework.resources.futures.AmazonMusicAccount;
-import com.amazon.ata.futures.prework.resources.futures.MusicAccountService;
+
+import futures.AmazonMusicAccount;
+import futures.MusicAccountService;
 
 import org.junit.jupiter.api.Test;
 

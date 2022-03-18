@@ -1,8 +1,6 @@
-package com.amazon.ata.futures.prework.futures;
-
-import com.amazon.ata.futures.prework.resources.futures.AmazonMusicAccount;
-import com.amazon.ata.futures.prework.resources.futures.ImportAccountTask;
-import com.amazon.ata.futures.prework.resources.futures.MusicAccountService;
+import futures.AmazonMusicAccount;
+import futures.ImportAccountTask;
+import futures.MusicAccountService;
 
 import java.util.ArrayList;
 import java.util.List;
